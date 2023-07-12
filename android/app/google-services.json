@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1080056324374",
+    "project_id": "gas-leak-9a56b",
+    "storage_bucket": "gas-leak-9a56b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080056324374:android:8aa35986c6991f86b6b037",
+        "android_client_info": {
+          "package_name": "com.example.gas_leak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080056324374-iktupsoc9fh4svsjukps01ohqfl27n8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQM-EXwMdBI1bIUi6ijrJWmFogUILHQ6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080056324374-iktupsoc9fh4svsjukps01ohqfl27n8h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1080056324374-jbfcqkek61b5pj8jrulr6dbps7cki97j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gasLeak"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
